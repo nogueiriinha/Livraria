@@ -1,0 +1,14 @@
+table,
+th,
+td,
+caption {
+    border: 1px solid #b41c1c;
+}
+
+tbody tr:nth-child(even) {
+    background: #f2f6ff;
+}
+
+tbody tr:hover {
+    background: #454a18;
+}
