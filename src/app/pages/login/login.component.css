@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.divLogin{
+
+    background-color: rgb(235, 168, 168);
+    height: 800px;
+    width: 400px;
+
+}
+
+.divTotal{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 60px;
+
+}
